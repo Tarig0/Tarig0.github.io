@@ -30,7 +30,7 @@ twitter_username: Powmax0
 github_username:  Tarig0
 
 # Build settings
-theme: minima
+remote_theme: lorepirri/cayman-blog
 plugins:
   - jekyll-feed
 
