@@ -1,7 +1,7 @@
 {
   "name": "BlazingSudoku",
   "short_name": "BlazingSudoku",
-  "start_url": "./blazing",
+  "start_url": "./blazing/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
