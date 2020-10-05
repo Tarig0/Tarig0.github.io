@@ -136,6 +136,25 @@ app {
     top: 0.5rem;
 }
 
+td.cell {
+    width: 56px;
+    height: 56px;
+    border-style: solid;
+    border-width: thin;
+}
+td.cell:nth-child(3n-1) {
+    border-left-width: medium;
+}
+td.cell:nth-child(10) {
+    border-right-width: medium;
+}
+tr:nth-child(3n-1) td.cell {
+    border-top-width: medium;
+}
+tr:nth-child(10) td.cell {
+    border-bottom-width: medium;
+}
+
 @media (max-width: 767.98px) {
     .main .top-row:not(.auth) {
         display: none;
