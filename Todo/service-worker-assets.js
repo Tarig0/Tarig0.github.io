@@ -57,11 +57,11 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-1N2whIEQIlmETC6gX7D8twiIKbxw0ehNThil6Kyb2xI=",
+      "hash": "sha256-dtPQQX2\/N8bXF3FLReXLp1ycVnMUTUWKIivneyrfwLk=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-GT5W7JO5KcXwaAb7HCn0PfUlInAnUeuNHsxEsBozNRw=",
+      "hash": "sha256-ykq71rpPpgUvqvtDWHg5MuVzAazma1FglEnRuH1XvHY=",
       "url": "manifest.json"
     },
     {
@@ -261,5 +261,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "2xy6vel\/"
+  "version": "OPi3rowk"
 };
