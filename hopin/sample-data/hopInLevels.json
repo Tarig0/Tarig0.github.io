@@ -1,0 +1,61 @@
+[
+  {
+    "moveTarget": 2,
+    "pieces": {
+      "Mushroom1": {
+        "index": 1
+      },
+      "Mushroom2": {
+        "index": 2
+      },
+      "Mushroom3": {
+        "index": 8
+      },
+      "WhiteBunny": {
+        "index": 13
+      }
+    }
+  },
+  {
+    "moveTarget": 3,
+    "Pieces": {
+      "Mushroom1": {
+        "index": 3
+      },
+      "Mushroom2": {
+        "index": 9
+      },
+      "Mushroom3": {
+        "index": 13
+      },
+      "WhiteBunny": {
+        "index": 4
+      },
+      "BrownBunny": {
+        "index": 2
+      }
+    }
+  },
+
+  {
+    "moveTarget": 4,
+    "Pieces": {
+      "Mushroom1": {
+        "index": 3
+      },
+      "Mushroom2": {
+        "index": 6
+      },
+      "Mushroom3": {
+        "index": 12
+      },
+      "WhiteBunny": {
+        "index": 7
+      },
+      "Fox1": {
+        "index": 8,
+        "meta": 2
+      }
+    }
+  }
+]
